@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todolist-redux/static/css/main.95373454.chunk.css",
+    "main.js": "/todolist-redux/static/js/main.988c3be5.chunk.js",
+    "main.js.map": "/todolist-redux/static/js/main.988c3be5.chunk.js.map",
+    "runtime~main.js": "/todolist-redux/static/js/runtime~main.513afd38.js",
+    "runtime~main.js.map": "/todolist-redux/static/js/runtime~main.513afd38.js.map",
+    "static/js/2.ffc642a5.chunk.js": "/todolist-redux/static/js/2.ffc642a5.chunk.js",
+    "static/js/2.ffc642a5.chunk.js.map": "/todolist-redux/static/js/2.ffc642a5.chunk.js.map",
+    "index.html": "/todolist-redux/index.html",
+    "precache-manifest.7331eb5eed4ca3a9150e6f017222ee49.js": "/todolist-redux/precache-manifest.7331eb5eed4ca3a9150e6f017222ee49.js",
+    "service-worker.js": "/todolist-redux/service-worker.js",
+    "static/css/main.95373454.chunk.css.map": "/todolist-redux/static/css/main.95373454.chunk.css.map"
+  }
+}
